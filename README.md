@@ -20,7 +20,6 @@ api = '' ## Str: API Key
 
 channelid_updates = '' ## Str: Channel ID
 
-baseurl_sendmsg = f'https://api.telegram.org/bot{api}/sendMessage'
 
 # csv columns of prod_man.csv
 csv_product_link = 'Tracking url' ## Str: Destination URL for the affiliation post
