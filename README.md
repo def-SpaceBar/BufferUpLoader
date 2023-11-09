@@ -1,5 +1,7 @@
 Modify the following variables in order to customize the bot for your needs
 
+![image](https://github.com/def-SpaceBar/BufferUpLoader/assets/96818328/18fdc0dc-7185-43b8-b3fa-9413cdab4a65)
+
 # General Settings
 
 max_posts = 10
@@ -36,4 +38,4 @@ csv_buffer_twitter = 'TwitterID' ## Str: The Twitter's account ID in Buffer.com
 
 csv_target_board = 'Main Board' ## Str: Pinterest Board Selection
 
-![image](https://github.com/def-SpaceBar/BufferUpLoader/assets/96818328/18fdc0dc-7185-43b8-b3fa-9413cdab4a65)
+
