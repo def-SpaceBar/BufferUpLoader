@@ -1,6 +1,7 @@
 Modify the following variables in order to customize the bot for your needs
 
 # General Settings
+
 max_posts = 10
 
 base_folder = 'C:\\Users\\$\\$\\$\\$\\'
@@ -12,6 +13,7 @@ account_manager = 'acc_man.csv'
 product_manager = 'prod_man.csv'
 
 # Telegram API Settings
+
 api = '' ## Str: API Key
 
 channelid_updates = '' ## Str: Channel ID
