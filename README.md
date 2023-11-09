@@ -1,16 +1,18 @@
 Modify the following variables in order to customize the bot for your needs
 
+# General Settings
 max_posts = 10
 base_folder = 'C:\\Users\\$\\$\\$\\$\\'
 media_name = 'pin_image.png'
 account_manager = 'acc_man.csv'
 product_manager = 'prod_man.csv'
 
+# Telegram API Settings
 api = '' ## Str: API Key
 channelid_updates = '' ## Str: Channel ID
 baseurl_sendmsg = f'https://api.telegram.org/bot{api}/sendMessage'
 
-# csv columns of prod_man.csv#
+# csv columns of prod_man.csv
 csv_product_link = 'Tracking url' ## Str: Destination URL for the affiliation post
 csv_product_name = 'Product Name' ## Str: Name of the product for the post data
 
