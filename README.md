@@ -1,7 +1,7 @@
 Modify the following variables in order to customize the bot for your needs
 
 # General Settings
-max_posts = 10
+max_posts = 10 \n
 base_folder = 'C:\\Users\\$\\$\\$\\$\\'
 media_name = 'pin_image.png'
 account_manager = 'acc_man.csv'
