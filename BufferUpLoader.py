@@ -166,7 +166,6 @@ print(acc_man)
 
 for i in acc_man:
     sendUpdate(f"---------\nRunning.\n---------\nUploading to {acc_man[i][csv_pinterest_username]} \n Account Number: {i}")
-    print(prod_man[1])
     buffer_loader(prod_man, max_posts,
                   acc_man[i][csv_buffer_email], acc_man[i][csv_buffer_password],
                   base_folder,
